@@ -1,4 +1,4 @@
-I"`(<p>Welcome to Team SARS’ final ADAmazing project. In this study, we analyze the intricate relationship between voting intentions and media coverage in the past three US presidential elections. We find that…</p>
+I"�(<p>Welcome to Team SARS’ final ADAmazing project. In this study, we analyze the intricate relationship between voting intentions and media coverage in the past three US presidential elections. We find that…</p>
 
 <center>
 <h1>Background</h1>
@@ -114,6 +114,8 @@
 <p><img src="/img/posts/wordcloud_2016.png" alt="image" /></p>
 
 <p><img src="/img/posts/wordcloud_2020.png" alt="image 2" /></p>
+
+<p><img src="/img/posts/wordcloud_2012.png" alt="image 3" /></p>
 
 <p>[adding a barplot of sentiment per each candidate and per each year]</p>
 
